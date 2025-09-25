@@ -1,2 +1,2 @@
-# store.leafmc.github.io
+# leafmc.github.io
 join here leafmc.mineplay.xyz 
